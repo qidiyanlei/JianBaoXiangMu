@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+
+        >
+      <ImageView
+          android:layout_width="100dp"
+          android:layout_height="80dp"
+          android:layout_gravity="center"
+          android:background="@drawable/yuanjiao"
+          android:src="@mipmap/jianhuo"/>
+    </LinearLayout>
+
+        <EditText
+            android:id="@+id/logreg_et_invite"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="请输入您的邀请码"
+            android:layout_marginTop="30dp"
+            />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#121212"></ImageView>
+    <EditText
+        android:id="@+id/logreg_et_phone"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="请输入您的手机号"
+        android:layout_marginTop="20dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#121212">
+
+    </ImageView>
+    <Button
+        android:id="@+id/logreg_bt_login"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:text="登录"
+        android:textColor="#FDFDFD"
+        android:textSize="25dp"
+        android:background="@drawable/selector_login"
+        android:layout_marginTop="15dp"
+        />
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="160dp">
+    <TextView
+        android:id="@+id/logreg_tv_forgetpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="忘记密码？"
+        android:textColor="#FF1122"
+        android:layout_alignParentLeft="true"
+        android:textSize="18sp"
+        android:layout_marginLeft="12dp"/>
+    <TextView
+        android:id="@+id/logreg_tv_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点击注册？"
+        android:textColor="#FF1122"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="12dp"
+        android:textSize="18sp"
+        />
+
+</RelativeLayout>
+
+
+</LinearLayout>

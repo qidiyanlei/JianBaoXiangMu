@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bgs.com.jianbao11">
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+
+    <application
+        android:name=".jianbao.MyAppalication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity"></activity>
+        <activity android:name=".activity.Activity_XinXi"/>
+        <activity android:name=".activity.Activity_PushGoods" />
+        <activity android:name=".activity.Activity_ZhuCe"/>
+        <activity android:name=".activity.Activity_KeFu"/>
+        <activity android:name=".activity.Activity_ForgetPassword"/>
+        <activity android:name=".activity.Activity_YiJian"/>
+        <activity android:name=".activity.Activity_LoginRegister"/>
+        <activity android:name=".activity.Activity_FirstStart"/>
+        <activity android:name=".utils.SharedUtils">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.Activity_Guide"/>
+        <activity android:name=".activity.Activity_GoodsDetail"></activity>
+        <activity android:name=".activity.Activity_Scal"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+    </application>
+
+</manifest>
