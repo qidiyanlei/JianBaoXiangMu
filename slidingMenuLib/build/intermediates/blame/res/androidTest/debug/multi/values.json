@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 57,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 57,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 55,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 55,
+                        "endOffset": 1201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 42,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 42,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 52,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 52,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 51,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1302,
+                        "endColumn": 51,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 52,
+                    "endOffset": 1402
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 52,
+                        "endOffset": 1402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1407,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1407,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "E:\\AndroidPR2\\JianBao1.1\\slidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1853
+                    }
+                }
+            }
+        ]
+    }
+]
